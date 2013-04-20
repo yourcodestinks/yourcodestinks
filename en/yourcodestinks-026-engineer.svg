@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="yourcodestinks-26-engineer.svg">
+   sodipodi:docname="yourcodestinks-026-engineer.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -522,8 +522,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748738"
-     inkscape:cx="-22.930229"
-     inkscape:cy="990.20708"
+     inkscape:cx="-14.849009"
+     inkscape:cy="982.12586"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -542,7 +542,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -694,7 +694,7 @@
          x="-147.47595"
          y="-111.67297"
          style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-         id="tspan5797">my hobby is to correct </tspan><tspan
+         id="tspan5797">my hobby is correcting </tspan><tspan
          sodipodi:role="line"
          x="-147.47595"
          y="-36.672974"
