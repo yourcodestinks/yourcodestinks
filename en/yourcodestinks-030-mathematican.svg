@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="391.16244"
-     inkscape:cy="125.90491"
+     inkscape:cx="396.87673"
+     inkscape:cy="146.20256"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,7 +83,7 @@
          x="-272.21234"
          y="-303.95758"
          style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-         id="tspan3069">mouse left handed in Windows 7?</tspan><tspan
+         id="tspan3069">mouse to be left handed in Windows 7?</tspan><tspan
          sodipodi:role="line"
          x="-272.21234"
          y="-228.95758"
@@ -267,12 +267,17 @@
          x="1044.3285"
          y="651.36755"
          style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-         id="tspan5421">into four dimensions, where you can </tspan><tspan
+         id="tspan5421">into four dimensions where you can </tspan><tspan
          sodipodi:role="line"
-         x="1026.3988"
+         x="1044.3285"
          y="726.36755"
          style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-         id="tspan5425">mirror your mouse by rotating it.</tspan></text>
+         id="tspan5425">mirror your mouse simply by </tspan><tspan
+         sodipodi:role="line"
+         x="1026.3988"
+         y="801.36755"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+         id="tspan3038">rotating it.</tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:10.69999980999999956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -320,7 +325,7 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:8.10000038;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 977.71597,765.22287 c 0,0 58.13883,181.7153 -43.04478,376.28873"
+       d="m 977.71597,845.22287 c 0,0 58.13883,143.08214 -43.04478,296.28873"
        id="path3088-4-1-9-1-1-2"
        sodipodi:nodetypes="cc" />
     <path
@@ -397,17 +402,17 @@
          x="-283.64725"
          y="859.0434"
          style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-         id="tspan4324-7-3">Still can't belive that </tspan><tspan
+         id="tspan4324-7-3">Still can't believe </tspan><tspan
          sodipodi:role="line"
          x="-283.64725"
          y="934.0434"
          style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-         id="tspan5453">somebody tought its a good idea </tspan><tspan
+         id="tspan5453">somebody tought thats a good idea </tspan><tspan
          sodipodi:role="line"
          x="-283.64725"
          y="1009.0434"
          style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-         id="tspan5455">to hire a mathematican.</tspan></text>
+         id="tspan5455">to hire mathematicans.</tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:8.10000038;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
